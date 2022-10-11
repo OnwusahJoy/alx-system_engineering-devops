@@ -1,35 +1,35 @@
-Create an alias.
+0. Create an alias.
 
-Hello, me.
+1. Hello, me.
 
-Add a dir to the path and display it at the end of the path.
+2. Add a dir to the path and display it at the end of the path.
 
-Count the number of dirs in the path.
+3. Count the number of dirs in the path.
 
-List global variables.
+4. List global variables.
 
-List local variables.
+5. List local variables.
 
-Create a new local variable.
+6. Create a new local variable.
 
-Create a new global variable.
+7. Create a new global variable.
 
-Add a number to the value of a global variable.
+8. Add a number to the value of a global variable.
 
-Divide one global variable by another.
+9. Divide one global variable by another.
 
-Raise the global variable BREATH to the power of the global variable LOVE.
+10. Raise the global variable BREATH to the power of the global variable LOVE.
 
-Convert to binary.
+11. Convert to binary.
 
-Display alphabetically all possible results for two letters except 'oo'.
+12. Display alphabetically all possible results for two letters except 'oo'.
 
-Display a number in 2 decimal places.
+13. Display a number in 2 decimal places.
 
-Convert to hexadecimal.
+100. Convert to hexadecimal.
 
-Encode a message and decode it.
+101. Encode a message and decode it.
 
-Print every other line from input, starting with the first line.
+102. Print every other line from input, starting with the first line.
 
-Add two numbers stored in the environment variables WATER and STIR and prints the result.
+103. Add two numbers stored in the environment variables WATER and STIRprintrints the result.
